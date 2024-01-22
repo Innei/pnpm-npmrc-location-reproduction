@@ -4,7 +4,6 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "postinstall": "sh ./scripts/install.sh",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
